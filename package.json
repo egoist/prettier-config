@@ -1,11 +1,13 @@
 {
   "name": "@egoist/prettier-config",
   "description": "My personal Prettier config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "public"
   },
-  "files": ["index.json"],
+  "files": [
+    "index.json"
+  ],
   "main": "index.json",
   "license": "MIT",
   "author": {
